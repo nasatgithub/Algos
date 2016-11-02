@@ -1,4 +1,4 @@
-package com.nasir;
+package com.nasir.LinkedList;
 
 /**
  * Created by NasirAhmed on 15-Aug-16.
