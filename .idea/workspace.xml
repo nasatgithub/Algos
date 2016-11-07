@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4511dcf8-4076-4d88-b15b-68942f22f89f" name="Default" comment="" />
+    <list default="true" id="4511dcf8-4076-4d88-b15b-68942f22f89f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nasir/javaconcepts_package1/AccessModifier1_Subclass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nasir/javaconcepts_package1/Access_Modifier1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nasir/javaconcepts_package2/Access_Modifier3.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/Algos/DFS.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/Algos/MergeSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/Algos/Subset.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/BitManipulate/BitManipulationSubstring.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/BitManipulate/nextSmallestLargest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/DP/CoinsSumDp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/StringProcessing/Anagrams1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/StringProcessing/Anagrams2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/StringProcessing/ProducerConsumerThreaded.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/StringProcessing/RemoveDuplicates.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/StringProcessing/RowColumnZero.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/FIzzBuzz.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/FileOperations.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/FindAllPairs.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/FindFirstRepeatingChar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/FindMinConsecutiveSubString.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/MyExceptionLearning.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/MyLinkedList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/MyStack.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/OneRepeatingNumber.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/Practice1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/SherlockBeast.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/StringSplits.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/generalpractice/SubClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/code/nasir/trees/BinaryTree.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="InterviewPrep.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,19 +57,67 @@
       <file leaf-file-name="MyLinkedListMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nasir/LinkedList/MyLinkedListMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+<<<<<<< HEAD
+            <state relative-caret-position="374">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Access_Modifier1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nasir/javaconcepts_package1/Access_Modifier1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccessModifier1_Subclass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nasir/javaconcepts_package1/AccessModifier1_Subclass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="18" column="75" selection-start-line="17" selection-start-column="7" selection-end-line="18" selection-end-column="75" />
+=======
+            <state relative-caret-position="270">
+<<<<<<< HEAD
+              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+=======
+              <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="SumLists.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/nasir/LinkedList/SumLists.java">
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="Access_Modifier3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nasir/javaconcepts_package2/Access_Modifier3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="89" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+=======
+      <file leaf-file-name="DPNthSteps.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nasir/DPNthSteps.java">
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="611">
               <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
               <folding />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
             </state>
           </provider>
         </entry>
@@ -46,6 +125,7 @@
       <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nasir/LinkedList/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="90">
               <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
               <folding />
@@ -59,6 +139,22 @@
             <state relative-caret-position="270">
               <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="1241">
+=======
+            <state relative-caret-position="1095">
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+              <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
+              <folding>
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#1666#1667#0" expanded="true" />
+                <element signature="e#1693#1694#0" expanded="true" />
+              </folding>
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
             </state>
           </provider>
         </entry>
@@ -66,7 +162,11 @@
       <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nasir/trees/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="612">
+=======
             <state relative-caret-position="540">
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
               <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
@@ -124,10 +224,17 @@
         <option value="$PROJECT_DIR$/src/com/nasir/trees/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/nasir/MyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/nasir/MyLinkedListMain.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/nasir/LinkedList/MyLinkedListMain.java" />
         <option value="$PROJECT_DIR$/src/com/nasir/LinkedList/Node.java" />
         <option value="$PROJECT_DIR$/src/com/nasir/LinkedList/MyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/nasir/LinkedList/SumLists.java" />
+=======
+        <option value="$PROJECT_DIR$/src/com/nasir/javaconcepts/Access_Modifier1.java" />
+        <option value="$PROJECT_DIR$/src/com/nasir/javaconcepts_package1/Access_Modifier1.java" />
+        <option value="$PROJECT_DIR$/src/com/nasir/javaconcepts_package1/AccessModifier1_Subclass.java" />
+        <option value="$PROJECT_DIR$/src/com/nasir/javaconcepts_package2/Access_Modifier3.java" />
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
       </list>
     </option>
   </component>
@@ -145,10 +252,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="-7" />
+    <option name="width" value="1370" />
+    <option name="height" value="735" />
+=======
     <option name="x" value="55" />
     <option name="y" value="24" />
     <option name="width" value="1311" />
     <option name="height" value="744" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -175,7 +288,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,14 +367,30 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
             <PATH_ELEMENT>
               <option name="myItemId" value="nasir" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="LinkedList" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+=======
+              <option name="myItemId" value="javaconcepts_package2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Access_Modifier3.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+=======
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -273,11 +409,48 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nasir" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaconcepts_package1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterviewPrep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterviewPrep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+<<<<<<< HEAD
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -901,7 +1074,11 @@
       <workItem from="1475802692995" duration="696000" />
       <workItem from="1476144737433" duration="612000" />
       <workItem from="1476384183859" duration="4344000" />
+<<<<<<< HEAD
+      <workItem from="1478212143065" duration="798000" />
+=======
       <workItem from="1478039904131" duration="33000" />
+<<<<<<< HEAD
       <workItem from="1478045388837" duration="4713000" />
       <workItem from="1478483552831" duration="1206000" />
     </task>
@@ -911,12 +1088,24 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1478045938751</updated>
+=======
+      <workItem from="1478045388837" duration="326000" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="79536000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="74382000" />
+=======
+    <option name="totallyTimeSpent" value="73943000" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -928,8 +1117,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="55" y="24" width="1311" height="744" extended-state="6" />
     <editor active="false" />
+=======
+<<<<<<< HEAD
+    <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
+=======
+    <frame x="55" y="24" width="1311" height="744" extended-state="0" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+    <editor active="true" />
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -937,12 +1135,26 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3183206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2982456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2987013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20152672" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="28" y="120" width="341" height="634" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -951,11 +1163,16 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+<<<<<<< HEAD
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+=======
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4003322" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31445605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1007,6 +1224,19 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/../DBMS/DBMS/DBMS.iml" />
+    <entry file="file://$PROJECT_DIR$/src/com/nasir/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
     <entry file="file://$PROJECT_DIR$/src/com/nasir/Rotate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1014,6 +1244,7 @@
         </state>
       </provider>
     </entry>
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
     <entry file="file://$PROJECT_DIR$/src/com/nasir/Isomorphic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1266,7 +1497,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nasir/trees/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="612">
+=======
         <state relative-caret-position="540">
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
@@ -1274,19 +1509,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nasir/DPNthSteps.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="255">
           <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="1241">
+=======
+        <state relative-caret-position="1095">
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+          <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
+          <folding>
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#1666#1667#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+          </folding>
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nasir/LinkedList/Node.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="374">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+=======
         <state relative-caret-position="270">
+<<<<<<< HEAD
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+=======
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/nasir/LinkedList/MyLinkedListMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1307,10 +1569,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
           <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/com/nasir/javaconcepts_package1/Access_Modifier1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nasir/javaconcepts_package1/AccessModifier1_Subclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="18" column="75" selection-start-line="17" selection-start-column="7" selection-end-line="18" selection-end-column="75" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/nasir/DPNthSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
+>>>>>>> ce96d3a3594c5cb5d3a6776c0022b5d0939637fb
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/com/nasir/javaconcepts_package2/Access_Modifier3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="89" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> b6756f6c6ea66170b3abb3a9b3412030026147b4
   </component>
   <component name="masterDetails">
     <states>
