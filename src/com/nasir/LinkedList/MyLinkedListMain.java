@@ -16,7 +16,7 @@ public class MyLinkedListMain {
 
         list.print();
 
-        list.deleteNode(list.getHead(), list.new Node("c"));
+        list.deleteNode(list.getHead(), new Node<>("b"));
 
         list.print();
 

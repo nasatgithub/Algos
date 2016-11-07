@@ -4,33 +4,16 @@ package com.nasir.LinkedList;
  * Created by NasirAhmed on 15-Aug-16.
  */
 public class MyLinkedList<E> {
-    Node head, tail;
+    public Node<E> head, tail;
     public MyLinkedList() {
         head = null;
         tail = null;
     }
 
-     public class Node {
-        private E data;
-        private Node next;
 
-        Node(E data) {
-            this.data = data;
-            this.next = null;
-        }
-
-        public E getData() {
-            return data;
-        }
-
-        @Override
-        public boolean equals(Object obj) {
-            return this.data == ((Node)obj).data;
-        }
-    }
 
     public void addNodeFront(E data) {
-        Node n = new Node(data);
+        Node<E> n = new Node(data);
         if(head == null){
             head = n;
             tail = n;
@@ -42,7 +25,7 @@ public class MyLinkedList<E> {
     }
 
     public void addNodeTail(E data) {
-        Node n = new Node(data);
+        Node<E> n = new Node(data);
         if(tail == null) {
             head = tail = n;
         }
@@ -52,7 +35,7 @@ public class MyLinkedList<E> {
         }
     }
 
-    public void deleteNode(Node node, Node n) {
+    public void deleteNode(Node<E> node, Node<E> n) {
         if(node.equals(n)) {
             node.data = node.next.data;
             node.next = node.next.next;
@@ -72,17 +55,19 @@ public class MyLinkedList<E> {
     }
 
     public void print(){
-        for(Node n = head; n!=null; n = n.next) {
+        for(Node<E> n = head; n!=null; n = n.next) {
             System.out.print(n.data +"->");
         }
         System.out.println();
     }
 
-    public Node getHead() {
+    public Node<E> getHead() {
         return head;
     }
 
 
 }
+
+
 
 
