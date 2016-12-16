@@ -33,7 +33,7 @@ public class FindAllPaths {
         FileReader fr = new FileReader("/home/nasir/Graph.txt");
         BufferedReader br = new BufferedReader(fr);
         String line;
-        List<String> fileLines = new ArrayList<>();cd 
+        List<String> fileLines = new ArrayList<>();
         while((line = br.readLine())!=null) {
             System.out.println(line);
             fileLines.add(line);
