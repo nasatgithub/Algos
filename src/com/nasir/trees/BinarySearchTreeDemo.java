@@ -1,10 +1,10 @@
-package code.nasir.trees;
+package com.nasir.trees;
 
 /**
  /**
  * Represents a node in the Binary Search Tree.
  */
-class Node<T> {
+class Node {
   //The value present in the node.
   public int value;
 
@@ -31,7 +31,7 @@ class BinarySearchTree {
   public Node root;
 
   public BinarySearchTree insert(int value) {
-    Node node = new Node<>(value);
+    Node node = new Node(value);
 
     if (root == null) {
       root = node;

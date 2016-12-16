@@ -5,10 +5,10 @@ import java.util.Map;
 /**
  * Created by NasirAhmed on 13-Oct-16.
  */
-class Node {
+class Node1 {
     int data;
-    Node left,right;
-    public Node(int data) {
+    Node1 left,right;
+    public Node1(int data) {
         data = this.data;
         left = right = null;
     }
@@ -19,25 +19,25 @@ public class BinaryTree {
 
     public static void main(String args[]) {
 
-        Node first = new Node(10);
+        Node1 first = new Node1(10);
 
-        Node second = new Node(8);
+        Node1 second = new Node1(8);
         first.left = second;
 
-        Node third = new Node(15);
+        Node1 third = new Node1(15);
         first.right = third;
 
-        Node fourth = new Node(7);
+        Node1 fourth = new Node1(7);
         second.left = fourth;
 
-        Node fifth = new Node(9);
+        Node1 fifth = new Node1(9);
         fourth.left = fifth;
 
         System.out.print(isBalanced(first));
 
     }
 
-    public static int getHeight(Node n) {
+    public static int getHeight(Node1 n) {
         if(n == null) return  0;
 
         else {
@@ -45,7 +45,7 @@ public class BinaryTree {
         }
     }
 
-    public static boolean isBalanced(Node n) {
+    public static boolean isBalanced(Node1 n) {
 
         if(n == null)
             return true;
