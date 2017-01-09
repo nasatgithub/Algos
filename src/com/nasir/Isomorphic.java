@@ -7,8 +7,8 @@ import java.util.HashSet;
  */
 public class Isomorphic {
     public static void main(String args[]) {
-        String a = "egg";
-        String b = "add";
+        String a = "ebgg";
+        String b = "addk";
         if (a.length() != b.length()) {
             System.out.println("Not Isomorphic");
         } else {
